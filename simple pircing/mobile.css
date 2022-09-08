@@ -1,0 +1,41 @@
+@media screen and (max-width:1183px) {
+    .seniorman-2{
+        height: 200px;
+    }
+    .simple-pricing{
+        flex-direction: column;
+        height: auto;
+        width: 400px;
+        margin: auto;
+       
+    }
+    .pricing{
+        margin: 60px 40px;
+        width: 100%;
+        border: 2px solid transparent;
+
+    }
+    .seniorman-2 h1{
+        font-size: 30px;
+        text-align: center;
+
+    }
+    .button-holder{
+        width: 350px;
+        margin: 10px 10px;
+        height: 60px;
+    }
+    .button{
+        font-size: 25px;
+        width: 175px;
+        height: 80%;
+    }
+    .holder2{
+        font-size: 25px;
+    }
+    .pircing p{
+        width: 200px;
+        text-align: justify;
+       
+    }
+}

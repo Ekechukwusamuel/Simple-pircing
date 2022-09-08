@@ -1,0 +1,128 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: "custom-lato", sans-serif;
+}
+.seniorman-2{
+    /* border: 2px solid black; */
+    /* justify-content: center; */
+    text-align: center;
+}
+.seniorman-2 h3{
+    /* justify-content: center;
+    align-items: center; */
+    padding: 10px;
+}
+.seniorman-2 h1{
+    padding: 10px;
+    font-weight: lighter;
+}
+.seniorman{
+
+}
+
+
+.simple-pircing1{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    /* border-radius: 10px; */
+}
+.button-holder{
+    margin: 16px 0;
+    background: lightgray;
+    text-align: center;
+    width: 210px;
+    height: 45px;
+    justify-content: space-evenly;
+    align-items: center;
+    border-radius: 10px;
+    display: flex;
+}
+button{
+    /* padding: 5px; */
+    border-radius: 8px;
+    border: 0;
+    background: white;
+    color: black;
+    padding: 4px 8px;
+
+}
+.pircing1 h1{
+    justify-content: center;
+}
+.simple-pricing{
+    display: flex;
+    border: 3px solid black;
+    height: 100%;
+    padding: 50px 50px;
+    border-radius: 15px;
+    margin-bottom: 100px;
+    
+}
+
+.boss{
+    width: 200px;
+    height: 60px;
+    background: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 40px 20px;
+}
+.boss:hover{
+    cursor: pointer;
+}
+.gee{
+    width: 200px;
+    height: 60px;
+    background: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 20px;
+}
+.gee:hover{
+    cursor: pointer;
+}
+/* .seniorman{ */
+    /* display: flex; */
+/* } */
+.pricing{
+    /* border: 2px solid black; */
+    height: 100%;
+    width: 300px;
+    padding: 20px;
+    border-right: 1px solid black;
+    /* justify-content: space-evenly; */
+    
+}
+h2{
+    font-size: 15px;
+    font-weight: bolder;
+}
+p{
+    padding: 5px;
+}
+span{
+    font-size: 40px;
+    font-weight: normal;
+}
+
+
+
